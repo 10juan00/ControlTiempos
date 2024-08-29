@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ControlTiempos</string>
+
+    <string name="sing_in_button">SignIn</string>
+</resources>

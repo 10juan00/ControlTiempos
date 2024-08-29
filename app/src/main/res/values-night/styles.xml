@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
+        <!-- Configura el tema oscuro aquí -->
+        <item name="colorPrimary">@color/header_footer</item>
+        <item name="colorPrimaryDark">@color/button_color_selected</item>
+        <item name="colorAccent">@color/radius_color</item>
+        <!-- Otros atributos del tema -->
+    </style>
+
+    <style name="Widget.MyApp.Button" parent="Widget.MaterialComponents.Button">
+        <!-- Color de fondo del botón -->
+        <item name="android:backgroundTint">@color/button_color</item>
+        <!-- Color del texto -->
+        <item name="android:textColor">@color/button_text_color_normal</item>
+        <!-- Establece un drawable personalizado para el fondo del botón -->
+        <item name="android:background">@drawable/custom_button_background</item>
+        <!-- Opcional: Padding del texto dentro del botón -->
+        <item name="android:padding">10dp</item>
+    </style>
+</resources>

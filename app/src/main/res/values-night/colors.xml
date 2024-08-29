@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores del Themes para modo oscuro-->
+    <color name="button_color">#2196F3</color>
+    <color name="button_color_selected">#0D47A1</color>
+    <color name="button_color_selected_extra">#0A2C5D</color>
+
+    <color name="button_cancel_color">#B71C1C</color>
+    <color name="button_cancel_color_selected">#7F0000</color>
+
+    <color name="button_accept_color">#1B5E20</color>
+    <color name="button_accept_color_selected">#004D40</color>
+
+    <color name="button_text_color_normal">#E0E0E0</color>
+    <color name="button_text_color_selected">#B0BEC5</color>
+
+    <color name="text_color">#E0E0E0</color>
+
+    <color name="header_footer">#0D47A1</color>
+
+    <color name="background_tareas">#424242</color>
+    <color name="background_oauth">#303030</color>
+    <color name="background_ext">#FF000000</color>
+
+    <color name="radius_color">#0A2C5D</color>
+
+</resources>
