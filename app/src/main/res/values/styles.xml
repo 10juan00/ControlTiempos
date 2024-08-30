@@ -18,4 +18,17 @@
         <!-- Opcional: Padding del texto dentro del botón -->
         <item name="android:padding">10dp</item>
     </style>
+
+    <style name="BackgroundOAuth">
+        <item name="android:background">@drawable/background_oauth</item>
+    </style>
+    <style name="BackgroundTasks">
+        <item name="android:background">@drawable/background_tasks</item>
+    </style>
+    <style name="BottomNavigation" parent="Widget.MaterialComponents.BottomNavigationView.Colored">
+        <item name="itemIconTint">@color/button_text_color_normal</item>
+        <item name="itemTextColor">@color/button_text_color_normal</item>
+        <item name="android:background">@color/header_footer</item>
+        <item name="labelVisibilityMode">labeled</item>
+    </style>
 </resources>

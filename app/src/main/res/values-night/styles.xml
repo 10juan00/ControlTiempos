@@ -18,4 +18,10 @@
         <!-- Opcional: Padding del texto dentro del botón -->
         <item name="android:padding">10dp</item>
     </style>
+    <style name="BackgroundOAuth">
+        <item name="android:background">@drawable/background_oauth</item>
+    </style>
+    <style name="BackgroundTasks">
+        <item name="android:background">@drawable/background_tasks</item>
+    </style>
 </resources>

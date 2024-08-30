@@ -22,8 +22,8 @@
 
     <color name="header_footer">#1976D2</color>
 
-    <color name="background_tareas">#F5F5F5</color>
-    <color name="background_oauth">#E0E0E0 </color>
+    <color name="background_tareas">#EEEEEE</color>
+    <color name="background_oauth">#F5F5F5</color>
     <color name="background_ext">#FFFFFFFF</color>
 
     <color name="radius_color">#004E9B</color>

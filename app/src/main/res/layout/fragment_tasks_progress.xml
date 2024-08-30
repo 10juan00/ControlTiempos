@@ -3,12 +3,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".FragmentProgressTasks">
+    tools:context=".FragmentTasksProgress">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
-
+        android:text="Tareas en Proceso"
+        android:gravity="center_horizontal"
+        android:textColor="@color/header_footer"
+        android:layout_marginTop="30dp"
+        android:textSize="40sp"/>
 </FrameLayout>

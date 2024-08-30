@@ -4,4 +4,10 @@
     <string name="sing_in_button">SignIn</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fab_content_description">Control de Entradas y Salidas</string>
+
+    <string name="menu_task_request_button">Peticiones</string>
+    <string name="menu_task_in_progress_button">En Proceso</string>
+    <string name="menu_task_rejected_button">Rechazadas</string>
+    <string name="menu_task_completed_button">Terminadas</string>
 </resources>

@@ -22,9 +22,9 @@
 
     <color name="header_footer">#0D47A1</color>
 
-    <color name="background_tareas">#424242</color>
-    <color name="background_oauth">#303030</color>
-    <color name="background_ext">#FF000000</color>
+    <color name="background_tareas">#303030</color>
+    <color name="background_oauth">#101010</color>
+    <color name="background_ext">#101010</color>
 
     <color name="radius_color">#0A2C5D</color>
 
