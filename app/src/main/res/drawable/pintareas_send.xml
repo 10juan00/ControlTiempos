@@ -1,0 +1,94 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Definimos la forma del polígono -->
+    <path
+        android:fillColor="#e8eaed"
+        android:pathData="
+        M59,90
+        L23,90
+        A8.1,8.1 0 0,1 15,82
+        L15,18
+        A9,9 0 0,1 25,10
+        L65,10
+        L85,29
+        L85,57
+        A17,17 0 0,0 77,56
+        L77,30
+        L64,30
+        L64,18
+        L23,18
+        L23,82
+        L57,82
+        A17,17 0 0,0 59,90Z" />
+    <path
+        android:fillColor="#00FF00"
+        android:pathData="
+        M77,60
+        C65,60 60,65 60,77
+        C60,89 65,94 77,94
+        C89,94 94,89 94,77
+        C94,65 89,60 77,60Z
+        M86,68
+        L86,86
+        L83,86
+        L83,74
+        L68,89
+        L65,86
+        L80,71
+        L68,71
+        L68,68
+        L86,68Z" />
+    <path
+        android:fillColor="#e8eaed"
+        android:pathData="
+        M34,39
+        L38,39
+        L38,43
+        L34,43
+        L34,39 Z" />
+    <path
+        android:fillColor="#e8eaed"
+        android:pathData="
+        M34,48
+        L38,48
+        L38,52
+        L34,52
+        L34,48 Z" />
+    <path
+        android:fillColor="#e8eaed"
+        android:pathData="
+        M34,57
+        L38,57
+        L38,61
+        L34,61
+        L34,57 Z" />
+    <path
+        android:fillColor="#e8eaed"
+        android:pathData="
+        M40,39
+        L66,39
+        L66,43
+        L40,43
+        L40,39 Z" />
+    <path
+        android:fillColor="#e8eaed"
+        android:pathData="
+        M40,48
+        L66,48
+        L66,52
+        L40,52
+        L40,48 Z" />
+    <path
+        android:fillColor="#e8eaed"
+        android:pathData="
+        M40,57
+        L66,57
+        L66,58
+        A17,17 0 0,0 61,61
+        L40,61
+        L40,57 Z" />
+</vector>

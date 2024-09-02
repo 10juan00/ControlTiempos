@@ -3,18 +3,18 @@
     <!-- Ítems del Bottom Navigation -->
     <item
         android:id="@+id/navigation_peticiones"
-        android:icon="@android:drawable/ic_input_add"
+        android:icon="@drawable/pintareas"
         android:title="@string/menu_task_request_button" />
     <item
         android:id="@+id/navigation_proceso"
-        android:icon="@android:drawable/ic_input_add"
+        android:icon="@drawable/pintareas_progress"
         android:title="@string/menu_task_in_progress_button"/>
     <item
         android:id="@+id/navigation_rechazadas"
-        android:icon="@android:drawable/ic_input_add"
+        android:icon="@drawable/pintareas_canceladas"
         android:title="@string/menu_task_rejected_button"/>
     <item
         android:id="@+id/navigation_finalizada"
-        android:icon="@android:drawable/ic_input_add"
+        android:icon="@drawable/pintareas_check"
         android:title="@string/menu_task_completed_button"/>
 </menu>
